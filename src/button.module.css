@@ -1,0 +1,3 @@
+.button-main { 
+    @apply bg-yellow-950 rounded-none;
+}
